@@ -2,7 +2,7 @@
 // @name         飞书表格转Markdown
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  右键飞书文档中的表格，一键复制为Markdown
+// @description  飞书文档中将鼠标悬停在表格上，按 Alt+M 一键复制为Markdown
 // @match        https://*.feishu.cn/*
 // @match        https://*.larkoffice.com/*
 // @grant        none
