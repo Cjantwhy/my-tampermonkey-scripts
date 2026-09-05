@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         飞书表格转Markdown
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Cjantwhy
 // @version      1.0
 // @description  飞书文档中将鼠标悬停在表格上，按 Alt+M 一键复制为Markdown
+// @author       Cjantwhy
+// @homepageURL  https://github.com/Cjantwhy/my-tampermonkey-scripts
 // @match        https://*.feishu.cn/*
 // @match        https://*.larkoffice.com/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {

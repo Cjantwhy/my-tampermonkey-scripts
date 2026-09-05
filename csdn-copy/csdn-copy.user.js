@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         CSDN 代码块自由复制
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Cjantwhy
 // @version      1.3
 // @description  解除 CSDN 代码块复制限制：自动展开被折叠的长代码块；点代码块右上角红色“复制”按钮一键复制完整代码（可验证的剪贴板写入，失败会如实提示）
-// @author       you
+// @author       Cjantwhy
+// @homepageURL  https://github.com/Cjantwhy/my-tampermonkey-scripts
 // @match        *://blog.csdn.net/*
 // @match        *://*.blog.csdn.net/*
 // @grant        GM_setClipboard
